@@ -21,7 +21,8 @@ As a Computer Science major, I love to use my skills and knowledge to explore ne
 
 
 <img align="left" alt="thienbao12a2's Github Stats" src ="https://github-readme-stats.vercel.app/api?username=thienbao12a2&theme=gotham&show_icons=true)" />
-<img align="left" alt="thienbao12a2's Github Most Lang" src = "https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)" />
+<img align="left" alt="thienbao12a2's Github Most Lang" src = "https://github-readme-stats.vercel.app/api/wakatime?username=thienbao12a2)](https://github.com/anuraghazra/github-readme-stats)" />
 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
