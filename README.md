@@ -25,4 +25,7 @@ As a Computer Science major, I love to use my skills and knowledge to explore ne
 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
