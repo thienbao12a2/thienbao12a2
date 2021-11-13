@@ -11,7 +11,7 @@ src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=faceb
 I am a Junior studying Computer Science with a focus on Software Engineering. I am also a husband and a father.
 As a Computer Science major, I love to use my skills and knowledge to explore new things in the world of technology.
 
-#### About me:<a target="_blank" rel="noopener noreferrer" href="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/raw/master/coding.gif?raw=true" width="408" height="318" style="max-width: 100%;"></a>
+#### About me:<a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"><img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="408" height="318" style="max-width: 100%;"></a>
 • I'm currently seeking for an internship;  
 • I'm taking Data Structure and Assembly Language courses;   
 • My email: bton1@student.gsu.edu;    
@@ -24,9 +24,10 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<img align="left" alt="thienbao12a2's Github Stats" src ="https://github-readme-stats.vercel.app/api?username=thienbao12a2&theme=gotham&show_icons=true" />
+
 <img align="left" alt="thienbao12a2's Github Most Lang" src = "https://github-readme-stats.vercel.app/api/wakatime?username=thienbao12a2" />
-<img align="left" alt="thienbao12a2's Github Most Lang" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thienbao12a2&layout=compact" />
+<img align="left" alt="thienbao12a2's Github Stats" src ="https://github-readme-stats.vercel.app/api?username=thienbao12a2&theme=gotham&show_icons=true" /><img align="left" alt="thienbao12a2's Github Most Lang" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thienbao12a2&layout=compact" />
+
 
 
 
