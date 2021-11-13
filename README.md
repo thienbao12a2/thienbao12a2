@@ -25,11 +25,7 @@ I am student of Computer sciences and focusing on software engineering as my spe
 • [My Resume](http://google.com);    
 
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+I have attachemd some of my projects in this account related to Java.
 
 
 <img align="left" alt="thienbao12a2's Github Most Lang" src = "https://github-readme-stats.vercel.app/api/wakatime?username=thienbao12a2" />
