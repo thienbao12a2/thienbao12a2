@@ -25,6 +25,9 @@ I am student of Computer sciences and focusing on software engineering as my spe
 • [My Resume](http://google.com);    
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 I have attachemd some of my projects in this account related to Java.
 
