@@ -11,17 +11,11 @@ src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=faceb
 I am a Junior studying Computer Science with a focus on Software Engineering. I am also a husband and a father.
 As a Computer Science major, I love to use my skills and knowledge to explore new things in the world of technology.
 
-#### About me:
-♦ I'm currently seeking for an internship.
-♦ I'm taking Data Structure and Assembly Language courses
-♦ My email: bton1@student.gsu.edu
-♦ [My Resume](http://google.com)
-
-
-
-
-
-
+#### About me:<img align="right" alt="thienbao12a2's Github Stats" src ="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+• I'm currently seeking for an internship;  
+• I'm taking Data Structure and Assembly Language courses;   
+• My email: bton1@student.gsu.edu;    
+• [My Resume](http://google.com);    
 
 
 
