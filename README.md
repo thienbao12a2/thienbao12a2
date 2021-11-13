@@ -31,6 +31,14 @@ I have attachemd some of my projects in this account related to Java.
 
 Atm, Currency Converter, Calculater
 
+#### My Interests: 
+
+I am mainly intrested in coding. Besides I have a core grip in Data Structures and still I am learning vast ways to manage and process data in programming languages.
+
+#### My Key Role to Work:
+
+I am very concerned about planning and calculations before starting any task. 
+
 <img align="left" alt="thienbao12a2's Github Most Lang" src = "https://github-readme-stats.vercel.app/api/wakatime?username=thienbao12a2" />
 <img align="left" alt="thienbao12a2's Github Stats" src ="https://github-readme-stats.vercel.app/api?username=thienbao12a2&theme=gotham&show_icons=true" /><img align="left" alt="thienbao12a2's Github Most Lang" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thienbao12a2&layout=compact" />
 
