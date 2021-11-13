@@ -8,13 +8,20 @@
 <a href="https://instagram.com/gkassym/" rel="nofollow"><img 
 src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Instagram Badge" width="85"/></a>
 ### Glad to see you here!   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=thienbao12a2.visitor-badge&left_color=red&right_color=green) 
-I am a Junior studying Computer Science with a focus on Software Engineering. I am also a husband and a father.
-As a Computer Science major, I love to use my skills and knowledge to explore new things in the world of technology.
+I am student of Computer sciences and focusing on software engineering as my specialized term by getting skills in coding or programing, I have been doing a lot of projects related to major programming languages. I have an emerging passion to sync with the latest technologies and to explore things associated with Information and technology.
 
 #### About me:<a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"><img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="408" height="318" style="max-width: 100%;"></a>
-• I'm currently seeking for an internship;  
-• I'm taking Data Structure and Assembly Language courses;   
-• My email: bton1@student.gsu.edu;    
+
+• I'm currently seeking for an internship; 
+
+• I have done many projects in java; 
+
+• I'm taking Data Structure and Assembly Language courses; 
+
+• I a good in problem solving technique and research and development; 
+
+• My email: bton1@student.gsu.edu;   
+
 • [My Resume](http://google.com);    
 
 
