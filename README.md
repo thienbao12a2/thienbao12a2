@@ -26,7 +26,8 @@ I am student of Computer sciences and focusing on software engineering as my spe
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Assembly   2 hrs 36 mins   ████████████████████████▒   97.97 % 
+Java       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 <!--END_SECTION:waka-->
 I have attachemd some of my projects in this account related to Java.
