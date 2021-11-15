@@ -8,7 +8,7 @@
 <a href="https://www.facebook.com/StevenTon19/" rel="nofollow"><img 
 src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Instagram Badge" width="85"/></a>
 ### Glad to see you here!   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=thienbao12a2.visitor-badge&left_color=red&right_color=green) 
-I am a highly motivated student pursuing a Bachelor of Science degree in Computer Science with a focus in software engineering. I am currently seekiung for a challenging intership to utilize my knowledge and prior work experience to add value to a company's growth.
+I am a highly motivated student pursuing a Bachelor of Science degree in Computer Science with a focus in software engineering. I am currently seeking for a challenging intership to utilize my knowledge and prior work experience to add value to a company's growth.
 #### About me:<a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"><img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="408" height="318" style="max-width: 100%;"></a>
 
 • ✨I'm currently seeking for an internship; 
