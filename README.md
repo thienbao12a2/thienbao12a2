@@ -26,8 +26,8 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 #### This week I spent my time on:
 <!--START_SECTION:waka-->
 ```text
-Assembly         3 hrs 5 mins    ███████████████████████▒░   93.04 % 
-Java             13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Assembly         3 hrs 5 mins    █████████████████████░░░░   84.54 % 
+Java             33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 ```
 <!--END_SECTION:waka-->
 
