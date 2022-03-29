@@ -27,10 +27,9 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 19 mins   ██████████████████████▓░░   90.21 %
-JavaScript   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Java         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Python   2 hrs 19 mins   ████████████████████████▓   98.58 %
+Java     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+C        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
