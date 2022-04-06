@@ -27,12 +27,12 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 47 mins    ██████████████▒░░░░░░░░░░   56.79 %
-C            55 mins         ███████▒░░░░░░░░░░░░░░░░░   29.44 %
-CSS          23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-Java         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JavaScript   2 hrs 4 mins    ██████████████████░░░░░░░   72.07 %
+CSS          35 mins         █████░░░░░░░░░░░░░░░░░░░░   20.46 %
+C            10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Java         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
