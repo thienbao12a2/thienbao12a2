@@ -27,8 +27,9 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 hrs 39 mins   ████████████████████████▓   99.20 %
-Text     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Python   4 hrs 39 mins   ███████████████████████▓░   94.57 %
+C        13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
