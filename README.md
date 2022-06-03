@@ -8,14 +8,10 @@
 <a href="https://www.facebook.com/StevenTon19/" rel="nofollow"><img 
 src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Instagram Badge" width="85"/></a>
 ### Glad to see you here!   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=thienbao12a2.visitor-badge&left_color=red&right_color=green) 
-I am a highly motivated student pursuing a Bachelor of Science degree in Computer Science with a focus in software engineering. I am currently seeking for a challenging intership to utilize my knowledge and prior work experience to add value to a company's growth.
+I am a highly motivated student pursuing a Bachelor of Science degree in Computer Science with a focus in software engineering. 
 #### About me:<a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"><img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="408" height="318" style="max-width: 100%;"></a>
 
-• ✨I'm currently seeking for an internship; 
-
-• 👨‍👩‍👦I'm a husband and a father;
-
-• 👨‍🏫I'm taking Data Structure and Assembly Language courses; 
+• 👨‍🏫I have knowledge in Java, Javascript, Python, C; 
 
 • 💪I'm good in problem solving technique and research and development; 
 
@@ -48,10 +44,3 @@ I am mainly intrested in coding. Besides I have a core grip in Data Structures a
 #### My Key Role to Work:
 
 I am very concerned about planning and calculations before starting any task. 
-
-<img align="left" alt="thienbao12a2's Github Most Lang" src = "https://github-readme-stats.vercel.app/api/wakatime?username=thienbao12a2" />
-<img align="left" alt="thienbao12a2's Github Stats" src ="https://github-readme-stats.vercel.app/api?username=thienbao12a2&theme=gotham&show_icons=true" /><img align="left" alt="thienbao12a2's Github Most Lang" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thienbao12a2&layout=compact" />
-
-
-
-
