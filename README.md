@@ -35,7 +35,7 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 #### My Projects: 
 
-[Atm Machine](https://github.com/thienbao12a2/AtmSimpleApp), [Currency Converter](https://github.com/thienbao12a2/ConvertMyCurrency), Calculater
+[Atm Machine](https://github.com/thienbao12a2/AtmSimpleApp), [Currency Converter](https://github.com/thienbao12a2/ConvertMyCurrency)
 
 #### My Interests: 
 
