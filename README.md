@@ -13,7 +13,7 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 
 • 👨‍🏫I have knowledge in Java, Javascript, Python, C; 
 
-• 💪I'm good in problem solving technique and research and development; 
+• 💪I'm good in problem solving technique, research and development; 
 
 • 📧My email: bton1@student.gsu.edu;   
 
