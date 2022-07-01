@@ -43,6 +43,12 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="35" height="35"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thienbao12a2)](https://git.io/streak-stats)
+
 #### This week I spent my time on:
 <!--START_SECTION:waka-->
 
