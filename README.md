@@ -18,7 +18,7 @@ src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=faceb
 
 ### Glad to see you here!    
 I am a highly motivated student pursuing a Bachelor of Science degree in Computer Science with a focus in software engineering. 
-#### About me:<a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif"><img align="right" alt="GIF" src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" width="408" height="318" style="max-width: 100%;"></a>
+#### About me:<a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif"><img align="right" alt="GIF" src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="408" height="318" style="max-width: 100%;"></a>
 
 • 👨‍🏫I have knowledge in Java, Javascript, Python, C; 
 
