@@ -1,5 +1,5 @@
 
-### Hi, I'm Bao Ton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"> 
+### Hi, I'm Bao Ton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> 
 <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100">
 
 <a href="https://discord.gg/YN8r4XHJ" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" width="79"/></a>
