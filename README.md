@@ -9,10 +9,10 @@
 <a href="https://www.facebook.com/StevenTon19/" rel="nofollow"><img 
 src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Instagram Badge" width="85"/></a>
 </div>
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=thienbao12a2.visitor-badge&left_color=red&right_color=green)
 ### Hi, I'm Bao Ton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> 
 <img src="https://media.giphy.com/media/RfRkr4IaI5hxDUaW5l/giphy.gif" width="100">
-### Glad to see you here!   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=thienbao12a2.visitor-badge&left_color=red&right_color=green) 
+### Glad to see you here!    
 I am a highly motivated student pursuing a Bachelor of Science degree in Computer Science with a focus in software engineering. 
 #### About me:<a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"><img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="408" height="318" style="max-width: 100%;"></a>
 
