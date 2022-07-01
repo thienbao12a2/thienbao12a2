@@ -26,7 +26,7 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 
 • 📧My email: bton1@student.gsu.edu;   
 
-• 📜[My Resume](http://google.com);    
+• 📜[My Resume](https://my-skipli-demo.s3.amazonaws.com/Bao+Ton-+Resume+PDF.pdf);    
 
 #### This week I spent my time on:
 <!--START_SECTION:waka-->
