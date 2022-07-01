@@ -47,7 +47,7 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thienbao12a2)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thienbao12a2&theme=onedark)](https://git.io/streak-stats)
 
 #### This week I spent my time on:
 <!--START_SECTION:waka-->
