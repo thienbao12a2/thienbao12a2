@@ -12,8 +12,11 @@ src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=faceb
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=thienbao12a2.visitor-badge&left_color=red&right_color=green">
 </div>
+<div align="center">
+  <h1>Hi, I'm Bao Ton</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+</div>
 
-### Hi, I'm Bao Ton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> 
 <img src="https://media.giphy.com/media/RfRkr4IaI5hxDUaW5l/giphy.gif" width="100">
 ### Glad to see you here!    
 I am a highly motivated student pursuing a Bachelor of Science degree in Computer Science with a focus in software engineering. 
