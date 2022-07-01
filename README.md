@@ -15,9 +15,6 @@ src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=faceb
 <div align="center">
   <h1>Hi, I'm Bao Ton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/AUIz9gccwIIuKHV219/giphy.gif">
-</div>
 
 ### Glad to see you here!    
 I am a highly motivated student pursuing a Bachelor of Science degree in Computer Science with a focus in software engineering. 
