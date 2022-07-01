@@ -20,13 +20,13 @@ src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=faceb
 I am a highly motivated student pursuing a Bachelor of Science degree in Computer Science with a focus in software engineering. 
 #### About me:<a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif"><img align="right" alt="GIF" src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="408" height="318" style="max-width: 100%;"></a>
 
-• 👨‍🏫I have knowledge in Java, Javascript, Python, C; 
+• 👨‍🏫I’m working as a Software Engineer Intern and help building  frontend, backend for web applications.
 
-• 💪I'm good in problem solving technique, research and development; 
+• 💪I'm good in problem solving technique, research and development.
 
-• 📧My email: bton1@student.gsu.edu;   
+• 📧My email: bton1@student.gsu.edu.  
 
-• 📜[My Resume](https://my-skipli-demo.s3.amazonaws.com/Bao+Ton-+Resume+PDF.pdf);    
+• 📜[My Resume](https://my-skipli-demo.s3.amazonaws.com/Bao+Ton-+Resume+PDF.pdf).  
 
 #### This week I spent my time on:
 <!--START_SECTION:waka-->
