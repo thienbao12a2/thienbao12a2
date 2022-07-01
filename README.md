@@ -61,16 +61,3 @@ Other        39 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-
-#### My Projects: 
-
-[Atm Machine](https://github.com/thienbao12a2/AtmSimpleApp), [Currency Converter](https://github.com/thienbao12a2/ConvertMyCurrency)
-
-#### My Interests: 
-
-I am mainly intrested in coding. Besides I have a core grip in Data Structures and still I am learning vast ways to manage and process data in programming languages.
-
-#### My Key Role to Work:
-
-I am very concerned about planning and calculations before starting any task. 
