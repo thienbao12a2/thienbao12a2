@@ -48,7 +48,7 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 
 ### :fire: My Stats :
 
-    <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2026%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -70,8 +70,6 @@ VS Code                  41 hrs 15 mins      ███████████�
 Windows                  41 hrs 15 mins      █████████████████████████   100.0%
 
 ```
-
-
  Last Updated on 02/07/2022 00:00:27 UTC
 <!--END_SECTION:waka-->
 
