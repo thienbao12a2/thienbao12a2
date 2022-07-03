@@ -26,4 +26,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           UPDATED_DATE_FORMAT: "%m/%d/%Y %H:%M:%S"
+          SHOW_TOTAL_CODE_TIME: "False"
           SYMBOL_VERSION: 1
