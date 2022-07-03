@@ -29,7 +29,7 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 • 📜[My Resume](https://my-skipli-demo.s3.amazonaws.com/Bao+Ton-+Resume+PDF.pdf).  
 
 • ⌨️Node.js dev yourself? Hit me up in your terminal/console:<br/>
-     ```npx baoton```
+    👉 ```npx baoton``` 👈
 
 ---
 
