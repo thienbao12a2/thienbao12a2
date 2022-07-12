@@ -50,8 +50,8 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 ---
 
 ### :fire: My Stats :
-<!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/5e461e93-c435-4cf7-af44-1a1ca830a1c7.svg)](https://wakatime.com/@5e461e93-c435-4cf7-af44-1a1ca830a1c7)
+<!--START_SECTION:waka-->
 
 📊 **This Week I Spent My Time On** 
 
