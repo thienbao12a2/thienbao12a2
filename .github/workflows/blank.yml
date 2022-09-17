@@ -28,3 +28,4 @@ jobs:
           UPDATED_DATE_FORMAT: "%m/%d/%Y %H:%M:%S"
           SHOW_TOTAL_CODE_TIME: "True"
           SYMBOL_VERSION: 1
+          TIME_RANGE: all_time
