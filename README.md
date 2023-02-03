@@ -52,7 +52,7 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-852%20hrs%2039%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,23 +60,20 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     12 hrs 7 mins       ███████████████████████░░   92.71% 
-XML                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.53% 
-JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45% 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29% 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Java                     15 hrs 53 mins      ████████████████████████░   96.25% 
+XML                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.5% 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
-IntelliJ                 12 hrs 52 mins      ████████████████████████░   98.53% 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
+IntelliJ                 16 hrs 31 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  13 hrs 4 mins       █████████████████████████   100.0%
+Windows                  16 hrs 31 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/02/2023 00:55:27 UTC
+ Last Updated on 02/03/2023 00:57:22 UTC
 <!--END_SECTION:waka-->
 
 
