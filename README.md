@@ -60,19 +60,17 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               14 mins             █████████████████████░░░░   84.22 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Groovy                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/11/2023 00:50:26 UTC
+ Last Updated on 05/12/2023 00:50:23 UTC
 <!--END_SECTION:waka-->
 
 
