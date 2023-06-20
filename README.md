@@ -17,10 +17,10 @@ src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=faceb
 </div>
 
 ### 🎉 Glad to see you here!    
-I am a highly motivated student pursuing a Bachelor of Science degree in Computer Science with a focus in software engineering. 
+I am a highly motivated individual who has recently obtained a Bachelor of Science degree in Computer Science, with a concentration in software engineering.
 #### :man_technologist: About me:<a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif"><img align="right" alt="GIF" src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="408" height="318" style="max-width: 100%;"></a>
 
-• 👨‍🏫I’m working as a Software Engineer Intern and help building  frontend, backend for web applications.
+• 👨‍🏫I’m actively seeking for a career in Software Engineering.
 
 • 💪I'm good in problem solving technique, research and development.
 
