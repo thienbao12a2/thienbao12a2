@@ -52,7 +52,7 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-945%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2054%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,17 +60,19 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 15 mins       █████████████████████████   99.66 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/30/2024 00:43:09 UTC
+ Last Updated on 01/31/2024 00:43:13 UTC
 <!--END_SECTION:waka-->
 
 
