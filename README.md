@@ -60,20 +60,17 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Bash                     10 mins             ██████████████████████░░░   88.51 % 
-HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-R                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-AutoHotkey               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/18/2024 00:58:40 UTC
+ Last Updated on 10/19/2024 00:58:15 UTC
 <!--END_SECTION:waka-->
 
 
