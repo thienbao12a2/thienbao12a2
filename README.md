@@ -60,17 +60,18 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     38 mins             ████████████████████░░░░░   80.12 % 
+AutoHotkey               9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/01/2025 01:04:28 UTC
+ Last Updated on 01/02/2025 00:58:40 UTC
 <!--END_SECTION:waka-->
 
 
