@@ -52,7 +52,7 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C352%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C352%20hrs%2040%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -70,7 +70,7 @@ Windows                  21 mins             ███████████�
 ```
 
 
- Last Updated on 09/09/2025 01:03:59 UTC
+ Last Updated on 09/10/2025 01:02:35 UTC
 <!--END_SECTION:waka-->
 
 
