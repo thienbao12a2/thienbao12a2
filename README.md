@@ -52,29 +52,8 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C383%20hrs%2040%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-XML                      16 hrs 6 mins       ████████████████░░░░░░░░░   65.65 % 
-JavaScript               4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-C#                       1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-XAML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Python                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-
-🔥 Editors: 
-VS Code                  24 hrs 31 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  24 hrs 31 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 09/27/2025 01:00:57 UTC
+ Last Updated on 09/28/2025 01:10:03 UTC
 <!--END_SECTION:waka-->
 
 
