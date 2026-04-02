@@ -52,7 +52,7 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C765%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C765%20hrs%2032%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,21 +60,21 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 5 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.58 % 
-Text                     3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-JavaScript               3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Java                     3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Markdown                 4 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   36.98 % 
+Java                     1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+JavaScript               1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Text                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Python                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/01/2026 00:23:43 UTC
+ Last Updated on 04/02/2026 00:19:45 UTC
 <!--END_SECTION:waka-->
 
 
