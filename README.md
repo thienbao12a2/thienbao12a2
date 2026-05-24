@@ -60,21 +60,21 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               29 mins             ████████░░░░░░░░░░░░░░░░░   31.77 % 
-Markdown                 25 mins             ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-Other                    14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-XML                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Other                    14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+JavaScript               14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+XML                      11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Python                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 
 🔥 Editors: 
-VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
+VS Code                  59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/23/2026 00:35:47 UTC
+ Last Updated on 05/24/2026 00:35:58 UTC
 <!--END_SECTION:waka-->
 
 
