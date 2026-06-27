@@ -52,7 +52,7 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C873%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C878%20hrs%2028%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,22 +60,23 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 38 mins       ████████████░░░░░░░░░░░░░   48.41 % 
-JavaScript               2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-Bash                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Python                   4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.37 % 
+Markdown                 3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+JavaScript               3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Bash                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 18 mins       ███████████████████░░░░░░   76.09 % 
-Windsurf                 2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+VS Code                  12 hrs 7 mins       ████████████████████░░░░░   81.89 % 
+Windsurf                 2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Copilot CLI              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Operating System: 
-Windows                  9 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/26/2026 00:40:45 UTC
+ Last Updated on 06/27/2026 00:38:16 UTC
 <!--END_SECTION:waka-->
 
 
