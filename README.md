@@ -60,23 +60,23 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.37 % 
-Markdown                 3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-JavaScript               3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-Bash                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+JavaScript               6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
+Markdown                 5 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Python                   4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Bash                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 7 mins       ████████████████████░░░░░   81.89 % 
-Windsurf                 2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Copilot CLI              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+VS Code                  17 hrs 4 mins       ██████████████████████░░░   86.41 % 
+Windsurf                 2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Copilot CLI              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 💻 Operating System: 
-Windows                  14 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/27/2026 00:38:16 UTC
+ Last Updated on 06/28/2026 00:38:36 UTC
 <!--END_SECTION:waka-->
 
 
