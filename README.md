@@ -52,7 +52,7 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C890%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C891%20hrs%2035%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,23 +60,22 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 9 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.32 % 
-JavaScript               5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Bash                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-TOML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Markdown                 13 hrs 12 mins      ███████████████░░░░░░░░░░   60.86 % 
+JavaScript               3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Other                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 53 mins      ██████████████████████░░░   86.55 % 
-Windsurf                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Copilot CLI              28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+VS Code                  21 hrs 14 mins      ████████████████████████░   97.82 % 
+Copilot CLI              28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Windows                  19 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/02/2026 00:38:26 UTC
+ Last Updated on 07/03/2026 00:32:15 UTC
 <!--END_SECTION:waka-->
 
 
