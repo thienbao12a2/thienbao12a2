@@ -60,22 +60,22 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 8 hrs 38 mins       ████████████████░░░░░░░░░   65.82 % 
-Other                    2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-TypeScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Markdown                 8 hrs 38 mins       ████████████████░░░░░░░░░   64.68 % 
+Other                    2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+TypeScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 1 min        █████████████████████████   99.35 % 
-Copilot CLI              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+VS Code                  13 hrs 15 mins      █████████████████████████   99.36 % 
+Copilot CLI              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Windows                  13 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/05/2026 00:32:52 UTC
+ Last Updated on 07/06/2026 00:33:22 UTC
 <!--END_SECTION:waka-->
 
 
