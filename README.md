@@ -52,7 +52,9 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C976%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C952%20hrs%2031%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%205%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -73,8 +75,30 @@ VS Code                  17 hrs 7 mins       ███████████�
 Windows                  17 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 07/27/2026 00:29:54 UTC
+```text
+⏱ AI Coding Time: 15 hrs 5 mins (88.1%)
+
+✍️ 0 lines written by AI, 63 lines written by hand (0.0% AI-written)
+
+🔤 828,879,442 Input Tokens, 3,696,671 Output Tokens
+
+💵 $1599.97 Estimated AI Cost This Week
+
+🧠 73 AI Sessions, 236 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 5,741 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 07/28/2026 00:27:04 UTC
 <!--END_SECTION:waka-->
 
 
