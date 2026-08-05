@@ -52,9 +52,9 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C961%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C964%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%207%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -62,43 +62,43 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 6 hrs 12 mins       █████████████████░░░░░░░░   67.23 % 
-C#                       52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Markdown                 3 hrs 58 mins       ███████████░░░░░░░░░░░░░░   44.65 % 
+C#                       2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.41 % 
+JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Bash                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 54 mins (85.71%)
+⏱ AI Coding Time: 7 hrs 14 mins (81.47%)
 
-✍️ 1,387 lines written by AI, 2 lines written by hand (99.86% AI-written)
+✍️ 175 lines written by AI, 2 lines written by hand (98.87% AI-written)
 
-🔤 606,406,065 Input Tokens, 2,042,002 Output Tokens
+🔤 616,828,024 Input Tokens, 1,963,546 Output Tokens
 
-💵 $2125.48 Estimated AI Cost This Week
+💵 $2312.78 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 116 AI Prompts
+🧠 55 AI Sessions, 116 AI Prompts
 
-GPT                      1,387 lines         █████████████████████████   100.00 % 
+GPT                      175 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 4,321 characters per prompt
+🤖 AI-Driven — 98.87% of written lines came from AI
+📚 Verbose Prompter — average 3,543 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.29% of changed lines were hand-edited
+🚀 High AI Trust — 1.69% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/03/2026 00:29:12 UTC
+ Last Updated on 08/05/2026 00:28:03 UTC
 <!--END_SECTION:waka-->
 
 
