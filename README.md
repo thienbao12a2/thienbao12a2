@@ -62,45 +62,45 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 2 hrs 53 mins       ███████████░░░░░░░░░░░░░░   44.17 % 
-JavaScript               1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-CSS                      1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Prisma                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+CSS                      1 hr 37 mins        ███████████░░░░░░░░░░░░░░   44.89 % 
+JavaScript               1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   34.26 % 
+Markdown                 42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Prisma                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 14 mins       ████████████████████░░░░░   80.15 % 
-VS Code                  1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Codex Vscode             3 hrs 22 mins       ███████████████████████░░   93.14 % 
+VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 💻 Operating System: 
-Windows                  6 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 26 mins (98.67%)
+⏱ AI Coding Time: 3 hrs 36 mins (99.69%)
 
-✍️ 2,904 lines written by AI, 1 lines written by hand (99.97% AI-written)
+✍️ 2,712 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 18,340,591 Input Tokens, 2,218,246 Output Tokens
+🔤 10,853,408 Input Tokens, 1,497,113 Output Tokens
 
-💵 $119.54 Estimated AI Cost This Week
+💵 $80.23 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 78 AI Prompts
+🧠 10 AI Sessions, 37 AI Prompts
 
-GPT                      3,368 lines         █████████████████████████   100.00 % 
+GPT                      3,176 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 7,861 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,893 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/18/2026 00:08:36 UTC
+ Last Updated on 08/19/2026 00:08:18 UTC
 <!--END_SECTION:waka-->
 
 
