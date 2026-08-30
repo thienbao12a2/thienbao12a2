@@ -54,7 +54,7 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C979%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -62,23 +62,40 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-SQL                      16 mins             █████████████████████████   100.00 % 
+Other                    8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+Codex Vscode             7 mins              ███████████████████░░░░░░   77.25 % 
+VS Code                  2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 8 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 124,661 Input Tokens, 8,370 Output Tokens
+
+💵 $27.82 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 4 AI Prompts
+
+GPT                      145 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 84 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/29/2026 00:16:53 UTC
+ Last Updated on 08/30/2026 00:20:47 UTC
 <!--END_SECTION:waka-->
 
 
