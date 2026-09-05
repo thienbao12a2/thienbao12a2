@@ -54,7 +54,7 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C979%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-238%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-238%20hrs%2031%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -62,41 +62,41 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    32 mins             ████████████████████░░░░░   78.86 % 
-Python                   8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Other                    54 mins             ██████████████████████░░░   86.07 % 
+Python                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████░░░░   82.62 % 
-Codex Vscode             7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+VS Code                  45 mins             ██████████████████░░░░░░░   71.54 % 
+Codex Vscode             18 mins             ███████░░░░░░░░░░░░░░░░░░   28.46 % 
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (90.96%)
+⏱ AI Coding Time: 59 mins (94.04%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 511,699 Input Tokens, 41,403 Output Tokens
+🔤 612,681 Input Tokens, 66,855 Output Tokens
 
-💵 $30.85 Estimated AI Cost This Week
+💵 $35.03 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 28 AI Prompts
+🧠 24 AI Sessions, 45 AI Prompts
 
 GPT                      145 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 4,726 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📚 Verbose Prompter — average 2,993 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/04/2026 00:17:31 UTC
+ Last Updated on 09/05/2026 00:18:07 UTC
 <!--END_SECTION:waka-->
 
 
