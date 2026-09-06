@@ -62,41 +62,41 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    54 mins             ██████████████████████░░░   86.07 % 
-Python                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Other                    45 mins             █████████████████████░░░░   83.82 % 
+Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
 
 🔥 Editors: 
-VS Code                  45 mins             ██████████████████░░░░░░░   71.54 % 
-Codex Vscode             18 mins             ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+VS Code                  43 mins             ████████████████████░░░░░   80.09 % 
+Codex Vscode             10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 mins (94.04%)
+⏱ AI Coding Time: 50 mins (93.08%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 612,681 Input Tokens, 66,855 Output Tokens
+🔤 488,020 Input Tokens, 58,485 Output Tokens
 
-💵 $35.03 Estimated AI Cost This Week
+💵 $29.67 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 45 AI Prompts
+🧠 20 AI Sessions, 41 AI Prompts
 
 GPT                      145 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,993 characters per prompt
+📚 Verbose Prompter — average 3,277 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/05/2026 00:18:07 UTC
+ Last Updated on 09/06/2026 00:20:54 UTC
 <!--END_SECTION:waka-->
 
 
