@@ -62,46 +62,44 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               10 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   34.46 % 
-Markdown                 8 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-Bash                     4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Other                    3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-SQL                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+JavaScript               7 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Markdown                 6 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+Other                    3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Bash                     3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+SQL                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 🔥 Editors: 
-Codex Vscode             19 hrs 22 mins      ████████████████░░░░░░░░░   64.91 % 
-VS Code                  6 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Claude Code              3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Codex Vscode             19 hrs 22 mins      ████████████████████░░░░░   78.34 % 
+VS Code                  5 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
 
 💻 Operating System: 
-Windows                  29 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 16 mins (91.42%)
+⏱ AI Coding Time: 22 hrs 28 mins (90.92%)
 
-✍️ 18,900 lines written by AI, 927 lines written by hand (95.32% AI-written)
+✍️ 9,061 lines written by AI, 533 lines written by hand (94.44% AI-written)
 
-🔤 38,057,145 Input Tokens, 2,567,394 Output Tokens
+🔤 37,363,178 Input Tokens, 2,406,521 Output Tokens
 
-💵 $891.43 Estimated AI Cost This Week
+💵 $860.47 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 337 AI Prompts
+🧠 29 AI Sessions, 320 AI Prompts
 
-Fable                    9,870 lines         █████████████░░░░░░░░░░░░   51.60 % 
-GPT                      9,259 lines         ████████████░░░░░░░░░░░░░   48.40 % 
+GPT                      9,259 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.32% of written lines came from AI
-📚 Verbose Prompter — average 10,692 characters per prompt
+🤖 AI-Driven — 94.44% of written lines came from AI
+📚 Verbose Prompter — average 11,042 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 4.65% of changed lines were hand-edited
+🚀 High AI Trust — 5.5% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/26/2026 00:18:27 UTC
+ Last Updated on 09/27/2026 00:21:39 UTC
 <!--END_SECTION:waka-->
 
 
