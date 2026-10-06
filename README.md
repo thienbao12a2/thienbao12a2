@@ -62,44 +62,44 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    4 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.71 % 
-SQL                      2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Markdown                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-PowerShell               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Other                    4 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.11 % 
+SQL                      2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Markdown                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+PowerShell               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 55 mins       ██████████████░░░░░░░░░░░   57.08 % 
-VS Code                  4 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.92 % 
+Codex Vscode             5 hrs 52 mins       ██████████████░░░░░░░░░░░   57.14 % 
+VS Code                  4 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.86 % 
 
 💻 Operating System: 
-Windows                  10 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 53 mins (75.86%)
+⏱ AI Coding Time: 7 hrs 49 mins (75.98%)
 
 ✍️ 2,051 lines written by AI, 6 lines written by hand (99.71% AI-written)
 
-🔤 5,214,293 Input Tokens, 331,337 Output Tokens
+🔤 5,141,869 Input Tokens, 326,135 Output Tokens
 
-💵 $63.62 Estimated AI Cost This Week
+💵 $63.47 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 122 AI Prompts
+🧠 13 AI Sessions, 119 AI Prompts
 
 GPT                      2,067 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.71% of written lines came from AI
-📚 Verbose Prompter — average 10,315 characters per prompt
+📚 Verbose Prompter — average 10,294 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.48% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/05/2026 00:21:34 UTC
+ Last Updated on 10/06/2026 00:20:17 UTC
 <!--END_SECTION:waka-->
 
 
