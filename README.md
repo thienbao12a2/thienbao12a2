@@ -62,44 +62,44 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 41 mins       ███████████░░░░░░░░░░░░░░   43.66 % 
-Markdown                 1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-TypeScript               45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Bash                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Markdown                 19 mins             ███████████░░░░░░░░░░░░░░   44.53 % 
+Python                   16 mins             █████████░░░░░░░░░░░░░░░░   37.40 % 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+PowerShell               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 27 mins       ███████████████████████░░   91.87 % 
-VS Code                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Codex Vscode             41 mins             ████████████████████████░   95.41 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 💻 Operating System: 
-Windows                  5 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 31 mins (93.15%)
+⏱ AI Coding Time: 42 mins (97.07%)
 
-✍️ 4,353 lines written by AI, 12 lines written by hand (99.73% AI-written)
+✍️ 360 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,408,041 Input Tokens, 487,284 Output Tokens
+🔤 656,662 Input Tokens, 39,640 Output Tokens
 
-💵 $28.21 Estimated AI Cost This Week
+💵 $2.35 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 25 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
 
-GPT                      4,727 lines         █████████████████████████   100.00 % 
+GPT                      360 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.73% of written lines came from AI
-📄 Detailed Prompter — average 717 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.3% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 223 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/18/2026 00:19:06 UTC
+ Last Updated on 10/19/2026 00:18:56 UTC
 <!--END_SECTION:waka-->
 
 
