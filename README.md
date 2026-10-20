@@ -62,44 +62,42 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 19 mins             ███████████░░░░░░░░░░░░░░   44.53 % 
-Python                   16 mins             █████████░░░░░░░░░░░░░░░░   37.40 % 
-Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-PowerShell               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Bash                     3 mins              █████████████████░░░░░░░░   66.37 % 
+PowerShell               1 min               ████████░░░░░░░░░░░░░░░░░   33.43 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Codex Vscode             41 mins             ████████████████████████░   95.41 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Codex Vscode             2 mins              ███████████████░░░░░░░░░░   59.88 % 
+VS Code                  1 min               ██████████░░░░░░░░░░░░░░░   40.12 % 
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (97.07%)
+⏱ AI Coding Time: 3 mins (74.4%)
 
-✍️ 360 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 656,662 Input Tokens, 39,640 Output Tokens
+🔤 35,284 Input Tokens, 4,597 Output Tokens
 
-💵 $2.35 Estimated AI Cost This Week
+💵 $0.14 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-GPT                      360 lines           █████████████████████████   100.00 % 
+GPT                      6 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 223 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 299 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/19/2026 00:18:56 UTC
+ Last Updated on 10/20/2026 00:17:39 UTC
 <!--END_SECTION:waka-->
 
 
