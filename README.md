@@ -54,7 +54,7 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C059%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-321%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-321%20hrs%2011%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -62,42 +62,42 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Bash                     3 mins              █████████████████░░░░░░░░   66.37 % 
-PowerShell               1 min               ████████░░░░░░░░░░░░░░░░░   33.43 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Bash                     3 mins              ██████████░░░░░░░░░░░░░░░   41.05 % 
+Other                    3 mins              ██████████░░░░░░░░░░░░░░░   38.28 % 
+PowerShell               1 min               █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
 
 🔥 Editors: 
-Codex Vscode             2 mins              ███████████████░░░░░░░░░░   59.88 % 
-VS Code                  1 min               ██████████░░░░░░░░░░░░░░░   40.12 % 
+Codex Vscode             6 mins              ███████████████████░░░░░░   75.19 % 
+VS Code                  1 min               ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (74.4%)
+⏱ AI Coding Time: 6 mins (84.17%)
 
 ✍️ 6 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 35,284 Input Tokens, 4,597 Output Tokens
+🔤 143,235 Input Tokens, 12,306 Output Tokens
 
-💵 $0.14 Estimated AI Cost This Week
+💵 $0.51 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 GPT                      6 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 299 characters per prompt
+📝 Concise Prompter — average 275 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/20/2026 00:17:39 UTC
+ Last Updated on 10/21/2026 00:17:01 UTC
 <!--END_SECTION:waka-->
 
 
