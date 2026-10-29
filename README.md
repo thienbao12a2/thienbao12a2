@@ -62,42 +62,39 @@ I am a highly motivated individual who has recently obtained a Bachelor of Scien
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       1 hr                █████████████████████░░░░   83.55 % 
-Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Other                    9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 11 mins        █████████████████████████   100.00 % 
+Codex Vscode             3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (100.0%)
+⏱ AI Coding Time: 3 mins (100.0%)
 
-✍️ 762 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 608,686 Input Tokens, 84,926 Output Tokens
+🔤 321,943 Input Tokens, 7,342 Output Tokens
 
-💵 $4.25 Estimated AI Cost This Week
+💵 $1.94 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-GPT                      764 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 407 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 364 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/28/2026 00:13:43 UTC
+ Last Updated on 10/29/2026 00:13:43 UTC
 <!--END_SECTION:waka-->
 
 
